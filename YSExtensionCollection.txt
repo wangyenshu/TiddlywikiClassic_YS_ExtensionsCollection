@@ -1,0 +1,42 @@
+|Source |https://github.com/wangyenshu/TiddlywikiClassic_YS_ExtensionsCollection/blob/main/YSExtensionCollection.txt|
+|Version|0.2.x|
+//{{{
+[
+  {
+    "url": "https://wangyenshu.github.io#EncryptDecryptBookmarkletPlugin",
+    "description": "Plugin adapted from https://qiita.com/useiichi/items/0786199ee61443df3af5."
+  },
+  {
+    "url": "https://wangyenshu.github.io#HorizontalSplitScreenPlugin",
+    "description": "Opens a new pop-up window with a horizontal split view, displaying the current page and another URL in a frameset."
+  },
+  {
+    "url": "https://wangyenshu.github.io#LLMPlugin",
+    "description": "Displays an interface for llm.js to run a language model."
+  },
+  {
+    "url": "https://wangyenshu.github.io#ModelViewerPlugin",
+    "description": "Displays a 3D model using the model‑viewer web component."
+  },
+  {
+    "url": "https://wangyenshu.github.io#RSSReaderFeedrPlugin",
+    "description": "Read and render RSS feeds using feedr."
+  },
+  {
+    "url": "https://wangyenshu.github.io#RunScriptPlugin",
+    "description": "A TiddlyWiki Classic plugin to run multiple programming language."
+  },
+  {
+    "url": "https://wangyenshu.github.io#SwiftLatexPlugin",
+    "description": "A TiddlyWiki Classic plugin to compile latex using swiftlatex."
+  },
+  {
+    "url": "https://wangyenshu.github.io#VerticalSplitScreenPlugin",
+    "description": "Opens a new pop-up window with a vertical split view, displaying the current page and another URL in a frameset."
+  },
+  {
+    "url": "https://wangyenshu.github.io#innerTW5Plugin",
+    "description": "Embedded Tiddlywiki5 frame inside Tiddlywiki Classic, allowing users to use Tiddlywiki5 Plugins inside Tiddlywiki classic."
+  }
+]
+//}}}
