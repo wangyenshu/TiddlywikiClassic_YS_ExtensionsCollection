@@ -4,679 +4,679 @@
 //{{{
 [
 {
-"url": "https://wangyenshu.github.io#AdvancedOptionsPlugin,"
+"url": "https://wangyenshu.github.io#AdvancedOptionsPlugin",
 "description": "AdvancedOptionsPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#AliasPlugin,"
+"url": "https://wangyenshu.github.io#AliasPlugin",
 "description": "AliasPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#AnimationEffectsPlugin,"
+"url": "https://wangyenshu.github.io#AnimationEffectsPlugin",
 "description": "AnimationEffectsPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#ArchivedTimeline,"
+"url": "https://wangyenshu.github.io#ArchivedTimeline",
 "description": "ArchivedTimeline"
 },
 {
-"url": "https://wangyenshu.github.io#AttachFilePlugin,"
+"url": "https://wangyenshu.github.io#AttachFilePlugin",
 "description": "AttachFilePlugin"
 },
 {
-"url": "https://wangyenshu.github.io#AttachFilePluginFormatters,"
+"url": "https://wangyenshu.github.io#AttachFilePluginFormatters",
 "description": "AttachFilePluginFormatters"
 },
 {
-"url": "https://wangyenshu.github.io#AutoOpenTiddlersPlugin,"
+"url": "https://wangyenshu.github.io#AutoOpenTiddlersPlugin",
 "description": "AutoOpenTiddlersPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#AutoTaggerPlugin,"
+"url": "https://wangyenshu.github.io#AutoTaggerPlugin",
 "description": "AutoTaggerPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#BibRefMacro,"
+"url": "https://wangyenshu.github.io#BibRefMacro",
 "description": "BibRefMacro"
 },
 {
-"url": "https://wangyenshu.github.io#BreadcrumbsPlugin,"
+"url": "https://wangyenshu.github.io#BreadcrumbsPlugin",
 "description": "BreadcrumbsPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#CalendarPlugin,"
+"url": "https://wangyenshu.github.io#CalendarPlugin",
 "description": "CalendarPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#CalendarPluginConfig,"
+"url": "https://wangyenshu.github.io#CalendarPluginConfig",
 "description": "CalendarPluginConfig"
 },
 {
-"url": "https://wangyenshu.github.io#CheckboxPlugin,"
+"url": "https://wangyenshu.github.io#CheckboxPlugin",
 "description": "CheckboxPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#ClickifyPlugin,"
+"url": "https://wangyenshu.github.io#ClickifyPlugin",
 "description": "ClickifyPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#CollapseTiddlersPlugin,"
+"url": "https://wangyenshu.github.io#CollapseTiddlersPlugin",
 "description": "CollapseTiddlersPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#ColumnCalculatorPlugin,"
+"url": "https://wangyenshu.github.io#ColumnCalculatorPlugin",
 "description": "ColumnCalculatorPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#CommentPlugin,"
+"url": "https://wangyenshu.github.io#CommentPlugin",
 "description": "CommentPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#CompareTiddlersPlugin,"
+"url": "https://wangyenshu.github.io#CompareTiddlersPlugin",
 "description": "CompareTiddlersPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#ConfigTweaks,"
+"url": "https://wangyenshu.github.io#ConfigTweaks",
 "description": "ConfigTweaks"
 },
 {
-"url": "https://wangyenshu.github.io#ContentTimelineMacro,"
+"url": "https://wangyenshu.github.io#ContentTimelineMacro",
 "description": "ContentTimelineMacro"
 },
 {
-"url": "https://wangyenshu.github.io#ContinuousSavingPlugin,"
+"url": "https://wangyenshu.github.io#ContinuousSavingPlugin",
 "description": "ContinuousSavingPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#CookieManagerPlugin,"
+"url": "https://wangyenshu.github.io#CookieManagerPlugin",
 "description": "CookieManagerPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#CookieManagerPluginConfig,"
+"url": "https://wangyenshu.github.io#CookieManagerPluginConfig",
 "description": "CookieManagerPluginConfig"
 },
 {
-"url": "https://wangyenshu.github.io#CookieSaverPlugin,"
+"url": "https://wangyenshu.github.io#CookieSaverPlugin",
 "description": "CookieSaverPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#CookieSaverPluginConfig,"
+"url": "https://wangyenshu.github.io#CookieSaverPluginConfig",
 "description": "CookieSaverPluginConfig"
 },
 {
-"url": "https://wangyenshu.github.io#CopyTiddlerPlugin,"
+"url": "https://wangyenshu.github.io#CopyTiddlerPlugin",
 "description": "CopyTiddlerPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#CoreTweaks,"
+"url": "https://wangyenshu.github.io#CoreTweaks",
 "description": "CoreTweaks"
 },
 {
-"url": "https://wangyenshu.github.io#DOMTweaksPlugin,"
+"url": "https://wangyenshu.github.io#DOMTweaksPlugin",
 "description": "DOMTweaksPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#DOMViewerPlugin,"
+"url": "https://wangyenshu.github.io#DOMViewerPlugin",
 "description": "DOMViewerPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#DarkModePlugin,"
+"url": "https://wangyenshu.github.io#DarkModePlugin",
 "description": "DarkModePlugin"
 },
 {
-"url": "https://wangyenshu.github.io#DataTiddlerPlugin,"
+"url": "https://wangyenshu.github.io#DataTiddlerPlugin",
 "description": "DataTiddlerPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#DatePlugin,"
+"url": "https://wangyenshu.github.io#DatePlugin",
 "description": "DatePlugin"
 },
 {
-"url": "https://wangyenshu.github.io#DatePluginConfig,"
+"url": "https://wangyenshu.github.io#DatePluginConfig",
 "description": "DatePluginConfig"
 },
 {
-"url": "https://wangyenshu.github.io#DeleteAllTaggedPlugin,"
+"url": "https://wangyenshu.github.io#DeleteAllTaggedPlugin",
 "description": "DeleteAllTaggedPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#DisableWikiLinksPlugin,"
+"url": "https://wangyenshu.github.io#DisableWikiLinksPlugin",
 "description": "DisableWikiLinksPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#DiscussionPlugin,"
+"url": "https://wangyenshu.github.io#DiscussionPlugin",
 "description": "DiscussionPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#DisqusPlugin,"
+"url": "https://wangyenshu.github.io#DisqusPlugin",
 "description": "DisqusPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#DragScrollPlugin,"
+"url": "https://wangyenshu.github.io#DragScrollPlugin",
 "description": "DragScrollPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#DropDownMenuPlugin,"
+"url": "https://wangyenshu.github.io#DropDownMenuPlugin",
 "description": "DropDownMenuPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#EasyEditPlugin,"
+"url": "https://wangyenshu.github.io#EasyEditPlugin",
 "description": "EasyEditPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#EditSectionPlugin,"
+"url": "https://wangyenshu.github.io#EditSectionPlugin",
 "description": "EditSectionPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#EditTiddlerPlugin,"
+"url": "https://wangyenshu.github.io#EditTiddlerPlugin",
 "description": "EditTiddlerPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#EncryptDecryptBookmarkletPlugin,"
+"url": "https://wangyenshu.github.io#EncryptDecryptBookmarkletPlugin",
 "description": "EncryptDecryptBookmarkletPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#Encrypted fields plugin,"
+"url": "https://wangyenshu.github.io#Encrypted fields plugin",
 "description": "Encrypted fields plugin"
 },
 {
-"url": "https://wangyenshu.github.io#ExportTiddlersPlugin,"
+"url": "https://wangyenshu.github.io#ExportTiddlersPlugin",
 "description": "ExportTiddlersPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#ExtensionsExplorerPlugin,"
+"url": "https://wangyenshu.github.io#ExtensionsExplorerPlugin",
 "description": "ExtensionsExplorerPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#ExternalTiddlersPlugin,"
+"url": "https://wangyenshu.github.io#ExternalTiddlersPlugin",
 "description": "ExternalTiddlersPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#FAQViewerPlugin,"
+"url": "https://wangyenshu.github.io#FAQViewerPlugin",
 "description": "FAQViewerPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#FancyBox2Plugin,"
+"url": "https://wangyenshu.github.io#FancyBox2Plugin",
 "description": "FancyBox2Plugin"
 },
 {
-"url": "https://wangyenshu.github.io#FileDropPlugin,"
+"url": "https://wangyenshu.github.io#FileDropPlugin",
 "description": "FileDropPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#FontSizePlugin,"
+"url": "https://wangyenshu.github.io#FontSizePlugin",
 "description": "FontSizePlugin"
 },
 {
-"url": "https://wangyenshu.github.io#ForEachTiddlerPlugin,"
+"url": "https://wangyenshu.github.io#ForEachTiddlerPlugin",
 "description": "ForEachTiddlerPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#FramedLinksPlugin,"
+"url": "https://wangyenshu.github.io#FramedLinksPlugin",
 "description": "FramedLinksPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#FullScreenPlugin,"
+"url": "https://wangyenshu.github.io#FullScreenPlugin",
 "description": "FullScreenPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#GATrackerPlugin,"
+"url": "https://wangyenshu.github.io#GATrackerPlugin",
 "description": "GATrackerPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#GenerateRssByTagPlugin,"
+"url": "https://wangyenshu.github.io#GenerateRssByTagPlugin",
 "description": "GenerateRssByTagPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#GotoPlugin,"
+"url": "https://wangyenshu.github.io#GotoPlugin",
 "description": "GotoPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#GridPlugin,"
+"url": "https://wangyenshu.github.io#GridPlugin",
 "description": "GridPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#HTMLFormattingPlugin,"
+"url": "https://wangyenshu.github.io#HTMLFormattingPlugin",
 "description": "HTMLFormattingPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#HTMLFormattingPluginConfig,"
+"url": "https://wangyenshu.github.io#HTMLFormattingPluginConfig",
 "description": "HTMLFormattingPluginConfig"
 },
 {
-"url": "https://wangyenshu.github.io#HandsontablePlugin,"
+"url": "https://wangyenshu.github.io#HandsontablePlugin",
 "description": "HandsontablePlugin"
 },
 {
-"url": "https://wangyenshu.github.io#HorizontalSplitScreenPlugin,"
+"url": "https://wangyenshu.github.io#HorizontalSplitScreenPlugin",
 "description": "HorizontalSplitScreenPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#HoverMenuPlugin,"
+"url": "https://wangyenshu.github.io#HoverMenuPlugin",
 "description": "HoverMenuPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#ImageMacro,"
+"url": "https://wangyenshu.github.io#ImageMacro",
 "description": "ImageMacro"
 },
 {
-"url": "https://wangyenshu.github.io#ImageMacroPlugin,"
+"url": "https://wangyenshu.github.io#ImageMacroPlugin",
 "description": "ImageMacroPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#ImageMapPlugin,"
+"url": "https://wangyenshu.github.io#ImageMapPlugin",
 "description": "ImageMapPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#ImagePathPlugin,"
+"url": "https://wangyenshu.github.io#ImagePathPlugin",
 "description": "ImagePathPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#ImageSizePlugin,"
+"url": "https://wangyenshu.github.io#ImageSizePlugin",
 "description": "ImageSizePlugin"
 },
 {
-"url": "https://wangyenshu.github.io#InlineJavascriptPlugin,"
+"url": "https://wangyenshu.github.io#InlineJavascriptPlugin",
 "description": "InlineJavascriptPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#InsertImagePlugin,"
+"url": "https://wangyenshu.github.io#InsertImagePlugin",
 "description": "InsertImagePlugin"
 },
 {
-"url": "https://wangyenshu.github.io#InstantTimestampPlugin,"
+"url": "https://wangyenshu.github.io#InstantTimestampPlugin",
 "description": "InstantTimestampPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#Jash.js,"
+"url": "https://wangyenshu.github.io#Jash.js",
 "description": "Jash.js"
 },
 {
-"url": "https://wangyenshu.github.io#LLMPlugin,"
+"url": "https://wangyenshu.github.io#LLMPlugin",
 "description": "LLMPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#LLMPluginConfig,"
+"url": "https://wangyenshu.github.io#LLMPluginConfig",
 "description": "LLMPluginConfig"
 },
 {
-"url": "https://wangyenshu.github.io#LegacyStrikeThroughPlugin,"
+"url": "https://wangyenshu.github.io#LegacyStrikeThroughPlugin",
 "description": "LegacyStrikeThroughPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#ListboxPlugin,"
+"url": "https://wangyenshu.github.io#ListboxPlugin",
 "description": "ListboxPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#LoadTiddlersPlugin,"
+"url": "https://wangyenshu.github.io#LoadTiddlersPlugin",
 "description": "LoadTiddlersPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#LoadTiddlersPluginPatch,"
+"url": "https://wangyenshu.github.io#LoadTiddlersPluginPatch",
 "description": "LoadTiddlersPluginPatch"
 },
 {
-"url": "https://wangyenshu.github.io#LooseLinksPlugin,"
+"url": "https://wangyenshu.github.io#LooseLinksPlugin",
 "description": "LooseLinksPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#MatchTagsPlugin,"
+"url": "https://wangyenshu.github.io#MatchTagsPlugin",
 "description": "MatchTagsPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#MathJaxPlugin,"
+"url": "https://wangyenshu.github.io#MathJaxPlugin",
 "description": "MathJaxPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#Minesweeper,"
+"url": "https://wangyenshu.github.io#Minesweeper",
 "description": "Minesweeper"
 },
 {
-"url": "https://wangyenshu.github.io#MiniBrowserPlugin,"
+"url": "https://wangyenshu.github.io#MiniBrowserPlugin",
 "description": "MiniBrowserPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#MissingTiddlersPlugin,"
+"url": "https://wangyenshu.github.io#MissingTiddlersPlugin",
 "description": "MissingTiddlersPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#ModelViewerPlugin,"
+"url": "https://wangyenshu.github.io#ModelViewerPlugin",
 "description": "ModelViewerPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#MoveablePanelPlugin,"
+"url": "https://wangyenshu.github.io#MoveablePanelPlugin",
 "description": "MoveablePanelPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#MultiTagEditorPlugin,"
+"url": "https://wangyenshu.github.io#MultiTagEditorPlugin",
 "description": "MultiTagEditorPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#NestedSlidersPlugin,"
+"url": "https://wangyenshu.github.io#NestedSlidersPlugin",
 "description": "NestedSlidersPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#PaletteViewMacro,"
+"url": "https://wangyenshu.github.io#PaletteViewMacro",
 "description": "PaletteViewMacro"
 },
 {
-"url": "https://wangyenshu.github.io#PanelManagerPlugin,"
+"url": "https://wangyenshu.github.io#PanelManagerPlugin",
 "description": "PanelManagerPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#PartTiddlerPlugin,"
+"url": "https://wangyenshu.github.io#PartTiddlerPlugin",
 "description": "PartTiddlerPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#PasswordOptionsPlugin,"
+"url": "https://wangyenshu.github.io#PasswordOptionsPlugin",
 "description": "PasswordOptionsPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#PasteUpHelperPlugin,"
+"url": "https://wangyenshu.github.io#PasteUpHelperPlugin",
 "description": "PasteUpHelperPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#PasteUpPlugin,"
+"url": "https://wangyenshu.github.io#PasteUpPlugin",
 "description": "PasteUpPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#PlayerPlugin,"
+"url": "https://wangyenshu.github.io#PlayerPlugin",
 "description": "PlayerPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#PluginMarkdown,"
+"url": "https://wangyenshu.github.io#PluginMarkdown",
 "description": "PluginMarkdown"
 },
 {
-"url": "https://wangyenshu.github.io#PopupPreviewPlugin,"
+"url": "https://wangyenshu.github.io#PopupPreviewPlugin",
 "description": "PopupPreviewPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#PreviewPlugin,"
+"url": "https://wangyenshu.github.io#PreviewPlugin",
 "description": "PreviewPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#QuickEditPlugin,"
+"url": "https://wangyenshu.github.io#QuickEditPlugin",
 "description": "QuickEditPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#QuickNotePlugin,"
+"url": "https://wangyenshu.github.io#QuickNotePlugin",
 "description": "QuickNotePlugin"
 },
 {
-"url": "https://wangyenshu.github.io#QuoteOfTheDayPlugin,"
+"url": "https://wangyenshu.github.io#QuoteOfTheDayPlugin",
 "description": "QuoteOfTheDayPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#QuotePlugin,"
+"url": "https://wangyenshu.github.io#QuotePlugin",
 "description": "QuotePlugin"
 },
 {
-"url": "https://wangyenshu.github.io#RSSReaderFeedrPlugin,"
+"url": "https://wangyenshu.github.io#RSSReaderFeedrPlugin",
 "description": "RSSReaderFeedrPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#RearrangeTiddlersPlugin,"
+"url": "https://wangyenshu.github.io#RearrangeTiddlersPlugin",
 "description": "RearrangeTiddlersPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#RecentChangesPlugin,"
+"url": "https://wangyenshu.github.io#RecentChangesPlugin",
 "description": "RecentChangesPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#RelatedTiddlersPlugin,"
+"url": "https://wangyenshu.github.io#RelatedTiddlersPlugin",
 "description": "RelatedTiddlersPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#ReminderMacros,"
+"url": "https://wangyenshu.github.io#ReminderMacros",
 "description": "ReminderMacros"
 },
 {
-"url": "https://wangyenshu.github.io#RenameTagsPlugin,"
+"url": "https://wangyenshu.github.io#RenameTagsPlugin",
 "description": "RenameTagsPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#RunScriptPlugin,"
+"url": "https://wangyenshu.github.io#RunScriptPlugin",
 "description": "RunScriptPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#RunScriptPluginConfig,"
+"url": "https://wangyenshu.github.io#RunScriptPluginConfig",
 "description": "RunScriptPluginConfig"
 },
 {
-"url": "https://wangyenshu.github.io#RunTiddlerPlugin,"
+"url": "https://wangyenshu.github.io#RunTiddlerPlugin",
 "description": "RunTiddlerPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#SQLQueryPlugin,"
+"url": "https://wangyenshu.github.io#SQLQueryPlugin",
 "description": "SQLQueryPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#SaveAsPlugin,"
+"url": "https://wangyenshu.github.io#SaveAsPlugin",
 "description": "SaveAsPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#SaveFromWebConfig,"
+"url": "https://wangyenshu.github.io#SaveFromWebConfig",
 "description": "SaveFromWebConfig"
 },
 {
-"url": "https://wangyenshu.github.io#SaveFromWebPlugin,"
+"url": "https://wangyenshu.github.io#SaveFromWebPlugin",
 "description": "SaveFromWebPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#SaveTiddlerToFilePlugin,"
+"url": "https://wangyenshu.github.io#SaveTiddlerToFilePlugin",
 "description": "SaveTiddlerToFilePlugin"
 },
 {
-"url": "https://wangyenshu.github.io#SearchOptionsPlugin,"
+"url": "https://wangyenshu.github.io#SearchOptionsPlugin",
 "description": "SearchOptionsPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#SectionLinksPlugin,"
+"url": "https://wangyenshu.github.io#SectionLinksPlugin",
 "description": "SectionLinksPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#SetIconPlugin,"
+"url": "https://wangyenshu.github.io#SetIconPlugin",
 "description": "SetIconPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#SetUserNamePlugin,"
+"url": "https://wangyenshu.github.io#SetUserNamePlugin",
 "description": "SetUserNamePlugin"
 },
 {
-"url": "https://wangyenshu.github.io#ShowPopupPlugin,"
+"url": "https://wangyenshu.github.io#ShowPopupPlugin",
 "description": "ShowPopupPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#ShowReferencesPlugin,"
+"url": "https://wangyenshu.github.io#ShowReferencesPlugin",
 "description": "ShowReferencesPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#ShowUpdatesPlugin,"
+"url": "https://wangyenshu.github.io#ShowUpdatesPlugin",
 "description": "ShowUpdatesPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#SinglePageModePlugin,"
+"url": "https://wangyenshu.github.io#SinglePageModePlugin",
 "description": "SinglePageModePlugin"
 },
 {
-"url": "https://wangyenshu.github.io#SiteMapMacro,"
+"url": "https://wangyenshu.github.io#SiteMapMacro",
 "description": "SiteMapMacro"
 },
 {
-"url": "https://wangyenshu.github.io#SnapshotPlugin,"
+"url": "https://wangyenshu.github.io#SnapshotPlugin",
 "description": "SnapshotPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#StickyPopupPlugin,"
+"url": "https://wangyenshu.github.io#StickyPopupPlugin",
 "description": "StickyPopupPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#StorySaverPlugin,"
+"url": "https://wangyenshu.github.io#StorySaverPlugin",
 "description": "StorySaverPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#StoryViewerPlugin,"
+"url": "https://wangyenshu.github.io#StoryViewerPlugin",
 "description": "StoryViewerPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#SwiftLatexPlugin,"
+"url": "https://wangyenshu.github.io#SwiftLatexPlugin",
 "description": "SwiftLatexPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#SwitchThemePlugin,"
+"url": "https://wangyenshu.github.io#SwitchThemePlugin",
 "description": "SwitchThemePlugin"
 },
 {
-"url": "https://wangyenshu.github.io#SwitchThemePluginPatch,"
+"url": "https://wangyenshu.github.io#SwitchThemePluginPatch",
 "description": "SwitchThemePluginPatch"
 },
 {
-"url": "https://wangyenshu.github.io#SyncPlugin,"
+"url": "https://wangyenshu.github.io#SyncPlugin",
 "description": "SyncPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#SystemInfoPlugin,"
+"url": "https://wangyenshu.github.io#SystemInfoPlugin",
 "description": "SystemInfoPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#TableOfContentsPlugin,"
+"url": "https://wangyenshu.github.io#TableOfContentsPlugin",
 "description": "TableOfContentsPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#TableSortingPlugin,"
+"url": "https://wangyenshu.github.io#TableSortingPlugin",
 "description": "TableSortingPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#TagCloudPlugin,"
+"url": "https://wangyenshu.github.io#TagCloudPlugin",
 "description": "TagCloudPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#TagGridPlugin,"
+"url": "https://wangyenshu.github.io#TagGridPlugin",
 "description": "TagGridPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#TaggedTemplateTweak,"
+"url": "https://wangyenshu.github.io#TaggedTemplateTweak",
 "description": "TaggedTemplateTweak"
 },
 {
-"url": "https://wangyenshu.github.io#TaskTimerPlugin,"
+"url": "https://wangyenshu.github.io#TaskTimerPlugin",
 "description": "TaskTimerPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#TaskTimerPluginConfig,"
+"url": "https://wangyenshu.github.io#TaskTimerPluginConfig",
 "description": "TaskTimerPluginConfig"
 },
 {
-"url": "https://wangyenshu.github.io#TemporaryTiddlersPlugin,"
+"url": "https://wangyenshu.github.io#TemporaryTiddlersPlugin",
 "description": "TemporaryTiddlersPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#TextAreaPlugin,"
+"url": "https://wangyenshu.github.io#TextAreaPlugin",
 "description": "TextAreaPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#ThostUploadPlugin,"
+"url": "https://wangyenshu.github.io#ThostUploadPlugin",
 "description": "ThostUploadPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#TidIDEPlugin,"
+"url": "https://wangyenshu.github.io#TidIDEPlugin",
 "description": "TidIDEPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#TiddlerEncryptionPlugin,"
+"url": "https://wangyenshu.github.io#TiddlerEncryptionPlugin",
 "description": "TiddlerEncryptionPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#TiddlerIconsPlugin,"
+"url": "https://wangyenshu.github.io#TiddlerIconsPlugin",
 "description": "TiddlerIconsPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#TiddlerIconsPluginConfig,"
+"url": "https://wangyenshu.github.io#TiddlerIconsPluginConfig",
 "description": "TiddlerIconsPluginConfig"
 },
 {
-"url": "https://wangyenshu.github.io#TiddlerNotesPlugin,"
+"url": "https://wangyenshu.github.io#TiddlerNotesPlugin",
 "description": "TiddlerNotesPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#TiddlerPasswordPlugin,"
+"url": "https://wangyenshu.github.io#TiddlerPasswordPlugin",
 "description": "TiddlerPasswordPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#TiddlerToCPlugin,"
+"url": "https://wangyenshu.github.io#TiddlerToCPlugin",
 "description": "TiddlerToCPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#TiddlerTweakerPlugin,"
+"url": "https://wangyenshu.github.io#TiddlerTweakerPlugin",
 "description": "TiddlerTweakerPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#TiddlerWithParamsPlugin,"
+"url": "https://wangyenshu.github.io#TiddlerWithParamsPlugin",
 "description": "TiddlerWithParamsPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#TiddlersBarPluginMP,"
+"url": "https://wangyenshu.github.io#TiddlersBarPluginMP",
 "description": "TiddlersBarPluginMP"
 },
 {
-"url": "https://wangyenshu.github.io#TiddlyLifePlugin,"
+"url": "https://wangyenshu.github.io#TiddlyLifePlugin",
 "description": "TiddlyLifePlugin"
 },
 {
-"url": "https://wangyenshu.github.io#TiddlyPodPlugin,"
+"url": "https://wangyenshu.github.io#TiddlyPodPlugin",
 "description": "TiddlyPodPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#ToggleSideBarMacro,"
+"url": "https://wangyenshu.github.io#ToggleSideBarMacro",
 "description": "ToggleSideBarMacro"
 },
 {
-"url": "https://wangyenshu.github.io#TrashPlugin,"
+"url": "https://wangyenshu.github.io#TrashPlugin",
 "description": "TrashPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#UndoPlugin,"
+"url": "https://wangyenshu.github.io#UndoPlugin",
 "description": "UndoPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#UnsavedChangesPlugin,"
+"url": "https://wangyenshu.github.io#UnsavedChangesPlugin",
 "description": "UnsavedChangesPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#UploadPlugin,"
+"url": "https://wangyenshu.github.io#UploadPlugin",
 "description": "UploadPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#VerticalSplitScreenPlugin,"
+"url": "https://wangyenshu.github.io#VerticalSplitScreenPlugin",
 "description": "VerticalSplitScreenPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#VisGraphPlugin,"
+"url": "https://wangyenshu.github.io#VisGraphPlugin",
 "description": "VisGraphPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#WikifyPlugin,"
+"url": "https://wangyenshu.github.io#WikifyPlugin",
 "description": "WikifyPlugin"
 },
 {
-"url": "https://wangyenshu.github.io#YourSearchPlugin-FORK,"
+"url": "https://wangyenshu.github.io#YourSearchPlugin-FORK",
 "description": "YourSearchPlugin-FORK"
 },
 {
-"url": "https://wangyenshu.github.io#ace-Plugin.js,"
+"url": "https://wangyenshu.github.io#ace-Plugin.js",
 "description": "ace-Plugin.js"
 },
 {
-"url": "https://wangyenshu.github.io#babel-Plugin.js,"
+"url": "https://wangyenshu.github.io#babel-Plugin.js",
 "description": "babel-Plugin.js"
 },
 {
-"url": "https://wangyenshu.github.io#innerTW5Plugin,"
+"url": "https://wangyenshu.github.io#innerTW5Plugin",
 "description": "innerTW5Plugin"
 },
 {
-"url": "https://wangyenshu.github.io#zzz-config-ace-Plugin.js,"
+"url": "https://wangyenshu.github.io#zzz-config-ace-Plugin.js",
 "description": "zzz-config-ace-Plugin.js"
 },
 ]
