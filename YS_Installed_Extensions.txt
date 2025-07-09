@@ -678,6 +678,6 @@
 {
 "url": "https://wangyenshu.github.io#zzz-config-ace-Plugin.js",
 "description": "zzz-config-ace-Plugin.js"
-},
+}
 ]
 //}}}
