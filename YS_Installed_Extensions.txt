@@ -1,6 +1,6 @@
 |Source     |https://github.com/wangyenshu/TiddlywikiClassic_YS_ExtensionsCollection/blob/main/YS_Installed_Extensions.txt|
 |Description|YS_Installed_Extensions|
-|Version    |0.1|
+|Version    |0.2|
 //{{{
 [
     {
